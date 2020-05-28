@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Local Banks</string>
+    <string name="dbs">DBS</string>
+    <string name="ocbc">OCBC</string>
+    <string name="uob">UOB</string>
+    <string name="eng">English</string>
+    <string name="chi">Chinese</string>
+    <string name="Cdbs">星展银行</string>
+    <string name="Cocbc">华侨银行</string>
+    <string name="Cuob">大华银行</string>
+</resources>
